@@ -5,7 +5,7 @@ import cv2
 # IMREAD_COLOR는 BGR로 이미지를 불러옴
 src = cv2.imread("lunar.jpg", cv2.IMREAD_COLOR)
 
-# flipcode < 0 x축과 y축 대칭
+# flipcode < 0 xy축 대칭
 # flipcode = 0 x축 대칭
 # flipcode > 0 y축 대칭
 x = cv2.flip(src, 0)
