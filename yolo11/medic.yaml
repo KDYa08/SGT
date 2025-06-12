@@ -1,0 +1,5 @@
+names:
+    0: aspirin
+    1: tylenol
+train: C:\Users\khy10\Desktop\program\gm_hs_SGT\yolo11\train
+val: C:\Users\khy10\Desktop\program\gm_hs_SGT\yolo11\val
